@@ -17,5 +17,5 @@
 
 ### 📬 Контактная информация
 **Для связи по поводу сотрудничества:**
-- **Email**: [ваш.email@example.com](mailto:batutinds@yandex.ru)
-- **Telegram**: [@your_telegram](https://t.me/@Andrigeto)
+- **Email**: batutinds@yandex.ru
+- **Telegram**: @Andrigeto
